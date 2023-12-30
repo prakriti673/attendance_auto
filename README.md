@@ -1,1 +1,1 @@
-Facial recognition based attendance system using python
+Facial recognition based attendance system using python and openCV
